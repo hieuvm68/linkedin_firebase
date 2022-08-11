@@ -264,7 +264,7 @@ const PostButton = styled.button`
   border-radius: 20px;
   padding-left: 16px;
   padding-right: 16px;
-  background: ${(props) => (props.disabled ? "rgba(0,0,0,0.8)" : "#0a66c2")};
+  background: ${(props) => (props.disabled ? "#ebebeb" : "#0a66c2")};
   color: ${(props) => (props.disabled ? "rgba(1,1,1,0.2)" : "white")};
   border: none;
   &:hover {

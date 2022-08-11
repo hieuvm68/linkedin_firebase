@@ -104,11 +104,17 @@ const Main = (props) => {
                     <SocialCounts>
                       <li>
                         <button>
-                          <img src="/images/like-icon.svg" alt="" />
+                          <img
+                            src="https://static-exp1.licdn.com/sc/h/4vr7dcac5wuy4nwsxxx8tf9e7"
+                            alt=""
+                          />
                           {/* <img src="/images/thatim-icon.svg" alt="" />
                   <img src="/images/votay-icon.svg" alt="" />
                   <img src="/images/idea-icon.svg" alt="" /> */}
-                          <img src="/images/favorite-icon.svg" alt="" />
+                          <img
+                            src="https://static-exp1.licdn.com/sc/h/f58e354mjsjpdd67eq51cuh49"
+                            alt=""
+                          />
                           <span>75</span>
                         </button>
                       </li>
